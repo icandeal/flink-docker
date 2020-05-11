@@ -18,6 +18,8 @@
 # limitations under the License.
 ################################################################################
 
+set -x
+
 # jobmanager or taskmanager
 FLINK_COMPONENT=$1
 shift
